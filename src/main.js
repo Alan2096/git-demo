@@ -6,6 +6,7 @@ import 'element-ui/lib/theme-chalk/index.css'
 import './static/reset.scss'
 //使用github提交代码
 //第二次提交代码到github
+//第三次提交
 Vue.use(ElementUI)
 Vue.config.productionTip = false
 
