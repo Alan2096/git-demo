@@ -5,6 +5,7 @@ import router from './router/router'
 import 'element-ui/lib/theme-chalk/index.css'
 import './static/reset.scss'
 //使用github提交代码
+//第二次提交代码到github
 Vue.use(ElementUI)
 Vue.config.productionTip = false
 
